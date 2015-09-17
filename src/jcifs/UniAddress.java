@@ -125,7 +125,7 @@ public class UniAddress {
         int count;
     }
 
-    private static final ExecutorService threadPool = Executors.newCachedThreadPool();
+    private static final ExecutorService threadPool = Executors.newFixedThreadPool(10);
 
     static class QueryThread implements Runnable {
 

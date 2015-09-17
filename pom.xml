@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.samba.jcifs</groupId>
     <artifactId>jcifs</artifactId>
-    <version>1.3.17-eolivelli</version>
+    <version>1.3.17-eolivelli-2</version>
     <packaging>jar</packaging>
     <name>jCIFS</name>
     <url>http://jcifs.samba.org</url>
